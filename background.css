@@ -1,0 +1,7 @@
+.background {
+  background-image: url('header.jpg');
+  background-position: file;
+  background-repeat:  repeat;
+  background-attachment: fixed;
+  background-size:  auto;
+}
